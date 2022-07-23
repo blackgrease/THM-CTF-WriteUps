@@ -5,10 +5,7 @@ Finally after years of procastination and daydreaming, the journey in the Offens
 Writeups are a good way to share knowledge and cement the knowledge of how you were able to exploit a vulnerable machine. I try to include some extra infromation, details, and thoughts in order to pass along the hacker mentality properly. The writeups are designed as nudges in the right direction and will not likely display outright answers. 
 
 The general methodology is
-  > Enumerate
-  > Enumerate some more
-  > Poke somethings to see what happens
-  > Connect the dots to your objective
+  > Enumerate, Enumerate some more, Poke somethings to see what happens, Connect the dots to your objective
   
 I hope you learn something new and help me learn even more.
 
