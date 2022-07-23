@@ -2,6 +2,14 @@
 
 Finally after years of procastination and daydreaming, the journey in the Offensive Security world is in full throttle. This is my way of giving back to the community and I have no idea who this may benefit but I hope it touches someone. 
 
-These writeups are made to reflect some flags realisitcally used in penetration tests to the best of my knwoledge while providing some background information concerning technologies, exploits, steps which I felt where missing in other writeups. The writeups are designed as nudges in the right direction and to help whoever is reading get out of the playful mode that some CTFs can bring (which is okay ).I hope you learn something new and help me learn even more.
+Writeups are a good way to share knowledge and cement the knowledge of how you were able to exploit a vulnerable machine. I try to include some extra infromation, details, and thoughts in order to pass along the hacker mentality properly. The writeups are designed as nudges in the right direction and will not likely display outright answers. 
+
+The general methodology is
+  > Enumerate
+  > Enumerate some more
+  > Poke somethings to see what happens
+  > Connect the dots to your objective
+  
+I hope you learn something new and help me learn even more.
 
 Twitter: @blkgreece
